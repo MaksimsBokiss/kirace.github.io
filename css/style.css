@@ -265,8 +265,12 @@ footer.footer {
         border: 1px solid var(--ligh-color);
         align-items: center;
         background: transparent;
-        height: 125px;
-        width: 125px;
+        height: 60px;
+        width: 60px;
         margin: 0 auto;
+    }
+
+    .footer_square img {
+        width: 75%;
     }
 }
